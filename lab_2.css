@@ -1,0 +1,39 @@
+body {
+    background-color: aliceblue;
+ }
+ 
+ 
+ .form_things {
+    border: 2px solid;
+    margin-right: 85%;
+    font-size: large;
+ }
+ 
+ 
+ #sub_button {
+    background-color: lavender;
+    margin-left: 25mm;
+ }
+ 
+ 
+ #sub_button:hover {
+    background-color: rgb(147, 147, 178);
+    margin-left: 25mm;
+ }
+ 
+ 
+ #page2 {
+    background-color: slategrey;
+ }
+ 
+ 
+ #page2_head {
+    text-align: center;
+ }
+ 
+ #Testudo {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
